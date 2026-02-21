@@ -1,0 +1,5 @@
+CS 436 – Program Assignment 1  
+Stop-and-Wait Reliable Data Transfer Protocol  
+Author: Ambrose Wang  
+Quest ID: l667wang
+Student ID: 20894753
