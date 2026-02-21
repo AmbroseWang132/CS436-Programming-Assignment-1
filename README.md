@@ -44,7 +44,7 @@ No Makefile is required since the implementation is in Python.
 
 ## 3. How to Run
 
-⚠️ IMPORTANT: Programs must be started in the following order.
+IMPORTANT: Programs must be started in the following order.
 
 nEmulator
 
